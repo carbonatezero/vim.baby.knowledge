@@ -32,9 +32,15 @@ Daily used commands of vim
 
 ### Editting
 
-### Visual mode (marking text)
+`u`      | Undo  
+`ctrl+r` | Redo
+
+### Visual mode (slecting text)
 
 ### Clipboard
+
+`yy` | copy a line (or the selcted characters in the visual mode)  
+`p`  | paste after cursor
 
 ### Search/Replace
 
