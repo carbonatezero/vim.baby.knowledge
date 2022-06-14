@@ -38,6 +38,13 @@ Daily used commands of vim
 
 ### Search/Replace
 
+`:%s/<old>/<new>/g` | replace all <old> with <new> throughout file  
+`:%s/<old>/<new>/gc` | replace all <old> with <new> throughout file with confirmation  
+
+`/<text>` search for <text>  
+`?<text>` search for <text> backward  
+  
+
 
 
 
