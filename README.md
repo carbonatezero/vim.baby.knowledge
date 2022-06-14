@@ -2,10 +2,17 @@
 Daily used commands of vim
 
 
+### Existing
+
+`:q`  
+`:q!`  
+`:w`  
+`:wq`  
+
+
 ### Cursor movement
 
 ---
-
 
 `ctrl+f/b` | forward/backward  
 `ctrl+d/u` | move down/up half page  
@@ -22,6 +29,21 @@ Daily used commands of vim
 
 
 ---
+
+### Editting
+
+### Visual mode (marking text)
+
+### Clipboard
+
+### Search/Replace
+
+
+
+
+
+
+
 
 
 [To be added.]
