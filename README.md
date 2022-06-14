@@ -1,4 +1,4 @@
-# vim_abs_basics
+# vim: the absolute basics
 Daily used commands of vim
 
 
