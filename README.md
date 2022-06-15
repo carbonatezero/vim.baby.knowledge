@@ -13,7 +13,7 @@ Daily used commands of vim
 ### Cursor movement
 
 ---
-
+`h` `j` `k` `l` | Arrow keys  
 `ctrl+f/b` | forward/backward  
 `ctrl+d/u` | move down/up half page  
 `G`        | go to the bottom of the page  
