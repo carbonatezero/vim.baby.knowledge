@@ -39,8 +39,8 @@ Daily used commands of vim
 
 ### Clipboard
 
-`yy` | copy a line (or the selcted characters in the visual mode)  
-`p`  | paste after cursor
+`y` | copy the selcted characters in the visual mode  
+`p` | paste after cursor
 
 ### Search/Replace
 
