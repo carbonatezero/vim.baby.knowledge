@@ -33,9 +33,9 @@ Daily used commands of vim
 ### Editting
 
 `u`      | Undo  
-`ctrl+r` | Redo
-`i`/`a`  | Start insert mode at/after cursor
-`I` / `A`| Start insert mode at the beginning/end of the line
+`ctrl+r` | Redo  
+`i`/`a`  | Start insert mode at/after cursor  
+`I`/`A`  | Start insert mode at the beginning/end of the line
 
 ### Visual mode (slecting text)
 
