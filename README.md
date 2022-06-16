@@ -52,7 +52,7 @@ Daily used commands of vim
 `/<text>` search for <text>  
 `?<text>` search for <text> backward  
   
-## To comment out blocks in vim: ##
+### To comment out blocks in vim: 
 
 - press <kbd>Esc</kbd> (to leave editing or other mode)
 - hit <kbd>ctrl</kbd>+<kbd>v</kbd> (visual block mode)
