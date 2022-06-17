@@ -52,11 +52,11 @@ Daily used commands of vim
 `/<text>` search for <text>  
 `?<text>` search for <text> backward  
   
-## To comment out blocks in vim: ##
+### To comment out blocks in vim: 
 
 - press <kbd>Esc</kbd> (to leave editing or other mode)
 - hit <kbd>ctrl</kbd>+<kbd>v</kbd> (visual block mode)
-- use the <kbd>↑</kbd>/<kbd>↓</kbd> arrow keys to select lines you want (it won't highlight everything - it's OK!)
+- use the <kbd>j</kbd>/<kbd>k</kbd> "arrow keys" to select lines you want (it won't highlight everything - it's OK!)
 - <kbd>Shift</kbd>+<kbd>i</kbd> (capital I)
 - insert the text you want, e.g. `% `
 - press <kbd>Esc</kbd><kbd>Esc</kbd>
