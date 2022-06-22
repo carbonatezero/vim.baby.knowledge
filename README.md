@@ -38,9 +38,10 @@ Daily used commands of vim
 `I`/`A`  : Start insert mode at the beginning/end of the line
 
 ### Visual mode (slecting text)
-`v`
-`V`
-`ctrl+v`
+`v`  
+`V`  
+`ctrl+v`  
+
 
 ### Clipboard
 
