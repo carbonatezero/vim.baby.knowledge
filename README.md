@@ -1,4 +1,4 @@
-# vim: the absolute basics
+# vim: the cheat sheet
 Daily used commands of vim
 
 
