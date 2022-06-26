@@ -65,11 +65,6 @@ Daily used commands of vim
 - insert the text you want, e.g. `% `
 - press <kbd>Esc</kbd><kbd>Esc</kbd>
 
-
-
-
-
-
-
-
-[To be added.]
+---
+  
+No need to go beyond the commands above. 
