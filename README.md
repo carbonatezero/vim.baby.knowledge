@@ -4,10 +4,7 @@ Daily used commands of vim
 
 ### Existing
 
-`:q`  
-`:q!`  
-`:w`  
-`:wq`  
+`:q`  `:q!`  `:w`  `:wq`  
 
 
 ### Cursor movement
