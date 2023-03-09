@@ -16,8 +16,7 @@ Command | Description
 `Ctrl+d/u` | Move down/up half page
 `G` | Go to the bottom of the page
 `gg` | Go to the top of the page
-`{` | Forward one paragraph
-`}` | Backward one paragraph
+`{` / `}`| Forward/Backward one paragraph
 `Ctrl+e/y` | Scroll down/up one line
 `0` | Start of line
 `^` | Start of line after white space
@@ -44,6 +43,10 @@ Command | Description
 
 `y` : copy the selcted characters in the visual mode  
 `p` : paste after cursor
+
+### Deletion
+`d`
+`x`
 
 ### Search/Replace
 
