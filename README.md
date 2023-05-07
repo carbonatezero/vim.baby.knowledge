@@ -1,5 +1,9 @@
-# vim: the cheat sheet
+# vim and Linux: the cheat sheet
 Daily used commands of vim
+
+### Compressing
+
+`tar -czvf archive.tar.gz my_directory`
 
 
 ### Existing
